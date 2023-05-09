@@ -1,4 +1,4 @@
-# click
+# display
 Banner|PNG
 --|--
 BannerEditor|<img src="BannerEditor.png">
