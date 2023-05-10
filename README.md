@@ -16,14 +16,14 @@ Your own usual rEFInd's sign.
 
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
-![B.big](README/B.big.png)
-![B.small](README/B.small.png)
-![M.big](README/M.big.png)
-![M.small](README/M.small.png)
-![1080p.B.big](README/1080p.B.big.png)
-![1080p.B.small](README/1080p.B.small.png)
-![1080p.M.big](README/1080p.M.big.png)
-![1080p.M.small](README/1080p.M.small.png)
+<img src="README/B.big.png">
+<img src="README/B.small.png">
+<img src="README/M.big.png">
+<img src="README/M.small.png">
+<img src="README/1080p.B.big.png">
+<img src="README/1080p.B.small.png">
+<img src="README/1080p.M.big.png">
+<img src="README/1080p.M.small.png">
 
 </details>
 
