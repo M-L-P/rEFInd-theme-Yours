@@ -144,4 +144,8 @@ If you like it and are looking forward to the coming update, you can star it.ðŸ’
 - [rEFInd Boot Manager](http://www.rodsbooks.com/refind/) from Roderick W. Smith;
 - [grub2-filemanager
 ](https://github.com/a1ive/grub2-filemanager) from [a1ive](https://github.com/a1ive);
-- ...
+- More modern icons,
+- - Some coming from [Iconfont](https://www.iconfont.cn/),
+- - Some coming from [Iconfinder](https://www.iconfinder.com/),
+- - Some coming from macOS and [OC](https://github.com/acidanthera/OpenCorePkg),
+- - Others coming from Unknown;
