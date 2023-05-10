@@ -8,7 +8,7 @@ Your own usual rEFInd's sign.
 - - ✏️set ___device___;
 - - ✏️set ___your name___.
 
-- It is based on [rEFInd Boot Manager](http://www.rodsbooks.com/refind/) from Roderick W. Smith, with [grub2-filemanager
+- It is based on [rEFInd Boot Manager](http://www.rodsbooks.com/refind/) from *Roderick W. Smith*, with [grub2-filemanager
 ](https://github.com/a1ive/grub2-filemanager) built-in.
 
 - - So you can boot .iso files from internal SSD by using [grub2-filemanager
@@ -141,7 +141,7 @@ Here are [icons](https://github.com/M-L-P/icons/tree/main/PNGs/Linux) for You.
 If you like it and are looking forward to the coming update, you can star it.💫
 
 ## 🎉Credit🎊
-- [rEFInd Boot Manager](http://www.rodsbooks.com/refind/) from Roderick W. Smith;
+- [rEFInd Boot Manager](http://www.rodsbooks.com/refind/) from *Roderick W. Smith*;
 - [grub2-filemanager
 ](https://github.com/a1ive/grub2-filemanager) from [a1ive](https://github.com/a1ive);
 - More modern icons,
