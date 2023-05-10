@@ -9,8 +9,19 @@ Your own usual rEFInd's sign.
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
+### For UEFI Firmware
+If your device meets the requirements,
+- 64bit UEFI supported;
+- GPU/vBIOS UEFI supported;
+You should use ![Yours-UEFI](https://github.com/M-L-P/Yours-UEFI).
 
-</details>
+### For Legacy BIOS
+If your device meet the requirements,
+- NOT supporting 64bit UEFI,
+- - 32bit UEFI supported;
+- - Only Legacy BIOS without UEFI supported;
+- GPU/vBIOS UEFI not supported;
+You should use ![Yours-LegacyBIOS](https://github.com/M-L-P/Yours-LegacyBIOS).
 
 ## 💻️Preview👀
 
