@@ -17,7 +17,9 @@ Your own usual rEFInd's sign.
 - Here are [icons](https://github.com/M-L-P/icons) for You.
 
 ## 💻️Preview👀
+Press the key `F10` or `\` to take a screenshot, by using your keyboard.
 
+Screenshots are folded.
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 <img src="README/B.big.png">
@@ -34,17 +36,19 @@ Your own usual rEFInd's sign.
 
 ## 🧭Guide⬇️
 
+### Where to Download
+
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
-### For UEFI Firmware
+#### For UEFI Firmware
 If your device meets the requirements,
 - 64bit UEFI supported;
 - GPU/vBIOS UEFI supported;
 
 You should use [Yours-UEFI](https://github.com/M-L-P/Yours-UEFI).
 
-### For Legacy BIOS
+#### For Legacy BIOS
 Else,
 - NOT supporting 64bit UEFI,
 - - 32bit UEFI supported;
@@ -55,8 +59,19 @@ Else,
 
 You should use [Yours-LegacyBIOS](https://github.com/M-L-P/Yours-LegacyBIOS).
 
-### For Hyper-V
+#### For Hyper-V
 Download .vhdx from [Releases](https://github.com/M-L-P/Yours/releases).
+</details>
+
+### Edit Your Banner
+
+<details>
+<summary>🖱️Click to Unfold to see🖱️</summary>
+
+- Open `EFI\Yours\Settings\display\BannerEditor.pptx` by using Microsoft 2021+;
+- Edit to set your profile, device and your name;
+- Save as a PNG;
+- Edit `EFI\Yours\Settings\display\display.conf` to set the new as the banner.
 </details>
 
 ## 📝FAQ❓️
@@ -70,11 +85,11 @@ Frequently asked question
 
 Icon|Size of Icon|Resolutions of Screen|Examples
 --|--|--|--
-Original Size|small_icon_size 48 big_icon_size 128|Resolutions < 1024x768|800x600 and so on
-Double Size|small_icon_size 96 big_icon_size 256|1024x768 ≤ Resolutions < 1920x1080|1024x768,1366x768,1440x900 and so on
-Treble Size|small_icon_size 96 big_icon_size 384|Resolutions ≥ 1920x1080|1080P,2K,4K and so on
+Original Size|`small_icon_size 48` `big_icon_size 128`|Resolutions < `1024x768`|`800x600` and so on
+Double Size|`small_icon_size 96` `big_icon_size 256`|`1024x768` ≤ Resolutions < `1920x1080`|`1024x768`,`1366x768`,`1440x900` and so on
+Treble Size|`small_icon_size 96` `big_icon_size 384`|Resolutions ≥ `1920x1080`|`1080P`,`2K`,`4K` and so on
 
-Note: small_icon_size is 96 for Treble Size
+Note: `small_icon_size` is `96` for Treble Size
 
 </details>
 
@@ -118,7 +133,7 @@ Here are [icons](https://github.com/M-L-P/icons/tree/main/PNGs/Linux) for You.
 
 - find and download which icons you need from [here](https://github.com/M-L-P/icons/tree/main/PNGs/Linux);
 - Rename the PNG files,
-- - `os_abcde.png` is the icon of `EFI\abcde\grubx64.efi`;
+- - `os_$NAME.png` is the icon of `EFI\$NAME\grubx64.efi`;
 - Copy into `EFI\Yours\Settings\icon\showing`;
 </details>
 
