@@ -16,13 +16,13 @@ about|bootorder|csr rotate|exit|firmware|hidden|install|reboot|shutdown
 | |![func_bootorder#](func_bootorder1.png)| | | | | | |
 
 ## tool
-apple recovery|fwupdate|gptsync|memtest|shell
+apple recovery|netboot|gptsync|memtest|shell
 --|--|--|--|--
-![tool_apple_rescue](tool_apple_rescue.png)|![tool_fwupdate](tool_fwupdate.png)|![tool_gptsync](tool_gptsync.png)|![tool_memtest](tool_memtest.png)|![tool_shell](tool_shell.png)
+![tool_apple_rescue](tool_apple_rescue.png)|![tool_netboot](tool_netboot.png)|![tool_gptsync](tool_gptsync.png)|![tool_memtest](tool_memtest.png)|![tool_shell](tool_shell.png)
 
-windows recovery|netboot|part|rescue|mok tool
+windows recovery|fwupdate|part|rescue|mok tool
 --|--|--|--|--
-![tool_windows_rescue](tool_windows_rescue.png)|![tool_netboot](tool_netboot.png)|![tool_part](tool_part.png)|![tool_rescue](tool_rescue.png)|![tool_mok_tool](tool_mok_tool.png)
+![tool_windows_rescue](tool_windows_rescue.png)|![tool_fwupdate](tool_fwupdate.png)|![tool_part](tool_part.png)|![tool_rescue](tool_rescue.png)|![tool_mok_tool](tool_mok_tool.png)
 
 ## vol
 firmware|internal|external|optical|netboot|transparent
