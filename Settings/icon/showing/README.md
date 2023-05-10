@@ -46,6 +46,6 @@ Rank|Distribution|Icon
 X|openSUSE|<img src="os_opensuse.png" width="100px">
 
 ### Remaining
-deepin|fydeos|android
---|--|--
-<img src="os_deepin.png" width="100px">|<img src="os_fydeos.png" width="100px">|<img src="os_android.png" width="100px">
+macOS|deepin|fydeOS|android
+--|--|--|--
+<img src="os_mac.png" width="100px">|<img src="os_deepin.png" width="100px">|<img src="os_fydeos.png" width="100px">|<img src="os_android.png" width="100px">
