@@ -61,6 +61,23 @@ Download .vhdx from [Releases](https://github.com/M-L-P/Yours/releases).
 
 ## 📝FAQ❓️
 Frequently asked question
+
+### Resize Icons
+<details>
+<summary>🖱️Click to Unfold to see🖱️</summary>
+
+- edit `EFI\Yours\Settings\display\display.conf`
+
+Icon|Size of Icon|Resolutions of Screen|Examples
+--|--|--|--
+Original Size|small_icon_size 48 big_icon_size 128|Resolutions < 1024x768|800x600 and so on
+Double Size|small_icon_size 96 big_icon_size 256|1024x768 ≤ Resolutions < 1920x1080|1024x768,1366x768,1440x900 and so on
+Treble Size|small_icon_size 96 big_icon_size 384|Resolutions ≥ 1920x1080|1080P,2K,4K and so on
+
+Note: small_icon_size is 96 for Treble Size
+
+</details>
+
 ### The Icon of Windows
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
