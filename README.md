@@ -68,7 +68,7 @@ Download .vhdx from [Releases](https://github.com/M-L-P/Yours/releases).
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
-- Open `EFI\Yours\Settings\display\BannerEditor.pptx` by using Microsoft 2021+;
+- Open `EFI\Yours\Settings\display\BannerEditor.pptx` by using Microsoft PowerPoint 2021+;
 - Edit to set your profile, device and your name;
 - Save as a PNG;
 - Edit `EFI\Yours\Settings\display\display.conf` to set the new as the banner.
