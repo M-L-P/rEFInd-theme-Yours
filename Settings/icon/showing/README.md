@@ -30,6 +30,10 @@ firmware|internal|external|optical|netboot|transparent
 ![vol_efi](vol_efi.png)|![vol_internal](vol_internal.png)|![vol_external](vol_external.png)|![vol_optical](vol_optical.png)|![vol_net](vol_net.png)|![vol_transparent](vol_transparent.png)
 
 ## os
+### Some Menuentries of rEFInd
+Legacy|UEFI|Linux|Unknown
+--|--|--|--
+<img src="os_legacy.png" width="100px">|<img src="os_uefi.png" width="100px">|<img src="os_linux.png" width="100px">|<img src="os_unknown.png" width="100px">
 
 ### Top 10 of DistroWatch
 Rank|Distribution|Icon
