@@ -82,7 +82,7 @@ Frequently asked question
 
 - edit `EFI\Yours\Settings\display\display.conf`
 
-Icon|Size of Icon|Resolutions of Screen|Examples
+Icon Size|Token|Screen Resolutions|Examples
 --|--|--|--
 Original Size|`small_icon_size 48` `big_icon_size 128`|Resolutions < `1024x768`|`800x600` and so on
 Double Size|`small_icon_size 96` `big_icon_size 256`|`1024x768` ≤ Resolutions < `1920x1080`|`1024x768`,`1366x768`,`1440x900` and so on
