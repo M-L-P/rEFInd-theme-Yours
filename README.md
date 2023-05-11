@@ -17,8 +17,7 @@ Your own usual rEFInd's sign.
 - Here are [icons](https://github.com/M-L-P/icons) for You.
 
 ## 💻️Preview👀
-Press the key `F10` or `\` to take a screenshot, by using your keyboard.
-
+Press the key `F10` or `\` to take a screenshot, by using your keyboard.<br/>
 Screenshots are folded.
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
@@ -96,22 +95,17 @@ Note: `small_icon_size` is `96` for Treble Size
 ### The Icon of Windows
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
-No matter which version of Windows you are using,
-
-you should copy its icon,
-
-from `EFI\Yours\Settings\icon\Windows` to `EFI\Yours\Settings\icon\showing`,
-
-and rename it `os_win8.png`.
-
-It is because rEFInd is taking `os_win8.png` as the icon of Windows Boot Manager.
+No matter which version of Windows you are using,<br/>
+you should copy its icon,<br/>
+from `EFI\Yours\Settings\icon\Windows` to `EFI\Yours\Settings\icon\showing`,<br/>
+and rename it `os_win8.png`.<br/>
+It is because rEFInd is taking `os_win8.png` as the icon of Windows Boot Manager.<br/>
 </details>
 
 ### The Icon of Hackintosh
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
-In order to ensure that the graphical interface is going to be not interrupted by codes,
-
+In order to ensure that the graphical interface is going to be not interrupted by codes,<br/>
 You need to perform the following steps.
 
 #### For OpenCore
