@@ -8,17 +8,16 @@ Your own usual rEFInd's sign.
 - - ✏️set ___device___;
 - - ✏️set ___your name___.
 
-- It is based on [rEFInd Boot Manager](http://www.rodsbooks.com/refind/) from Roderick W. Smith, with [grub2-filemanager
+- It is based on [rEFInd Boot Manager](http://www.rodsbooks.com/refind/) of *Roderick W. Smith*, with [grub2-filemanager
 ](https://github.com/a1ive/grub2-filemanager) built-in.
 
 - - So you can boot .iso files from internal SSD by using [grub2-filemanager
-](https://github.com/a1ive/grub2-filemanager) from [a1ive](https://github.com/a1ive).
+](https://github.com/a1ive/grub2-filemanager) of [a1ive](https://github.com/a1ive).
 
 - Here are [icons](https://github.com/M-L-P/icons) for You.
 
 ## 💻️Preview👀
-Press the key `F10` or `\` to take a screenshot, by using your keyboard.
-
+Press the key `F10` or `\` to take a screenshot, by using your keyboard.<br/>
 Screenshots are folded.
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
@@ -96,22 +95,17 @@ Note: `small_icon_size` is `96` for Treble Size
 ### The Icon of Windows
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
-No matter which version of Windows you are using,
-
-you should copy its icon,
-
-from `EFI\Yours\Settings\icon\Windows` to `EFI\Yours\Settings\icon\showing`,
-
-and rename it `os_win8.png`.
-
-It is because rEFInd is taking `os_win8.png` as the icon of Windows Boot Manager.
+No matter which version of Windows you are using,<br/>
+you should copy its icon,<br/>
+from `EFI\Yours\Settings\icon\Windows` to `EFI\Yours\Settings\icon\showing`,<br/>
+and rename it `os_win8.png`.<br/>
+It is because rEFInd is taking `os_win8.png` as the icon of Windows Boot Manager.<br/>
 </details>
 
 ### The Icon of Hackintosh
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
-In order to ensure that the graphical interface is going to be not interrupted by codes,
-
+In order to ensure that the graphical interface is going to be not interrupted by codes,<br/>
 You need to perform the following steps.
 
 #### For OpenCore
@@ -141,9 +135,9 @@ Here are [icons](https://github.com/M-L-P/icons/tree/main/PNGs/Linux) for You.
 If you like it and are looking forward to the coming update, you can star it.💫
 
 ## 🎉Credit🎊
-- [rEFInd Boot Manager](http://www.rodsbooks.com/refind/) from Roderick W. Smith;
+- [rEFInd Boot Manager](http://www.rodsbooks.com/refind/) of *Roderick W. Smith*;
 - [grub2-filemanager
-](https://github.com/a1ive/grub2-filemanager) from [a1ive](https://github.com/a1ive);
+](https://github.com/a1ive/grub2-filemanager) of [a1ive](https://github.com/a1ive);
 - More modern icons,
 - - Some coming from [Iconfont](https://www.iconfont.cn/),
 - - Some coming from [Iconfinder](https://www.iconfinder.com/),
