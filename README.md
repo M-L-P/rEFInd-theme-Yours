@@ -70,7 +70,7 @@ Download .vhdx from [Releases](https://github.com/M-L-P/Yours/releases).
 - Open `EFI\Yours\Settings\display\BannerEditor.pptx` by using Microsoft PowerPoint 2021+;
 - Edit to set your profile, device and your name;
 - Save as a PNG;
-- Edit `EFI\Yours\Settings\display\display.conf` to set the new as the banner.
+- Edit `EFI\Yours\Settings\display\display.conf` to set the new made as the banner.
 </details>
 
 ## 📝FAQ❓️
@@ -99,7 +99,7 @@ No matter which version of Windows you are using,<br/>
 you should copy its icon,<br/>
 from `EFI\Yours\Settings\icon\Windows` to `EFI\Yours\Settings\icon\showing`,<br/>
 and rename it `os_win8.png`.<br/>
-It is because rEFInd is taking `os_win8.png` as the icon of Windows Boot Manager.<br/>
+It is because rEFInd is taking `os_win8.png` as the icon of `Windows Boot Manager`.<br/>
 </details>
 
 ### The Icon of Hackintosh
