@@ -143,3 +143,9 @@ If you like it and are looking forward to the coming update, you can star it.�
 - - Some coming from [Iconfinder](https://www.iconfinder.com/),
 - - Some coming from macOS and [OC](https://github.com/acidanthera/OpenCorePkg),
 - - Others coming from Unknown;
+
+## 🧁Buy me a piece of chocolate🍫
+I have no father; No man celebrates my birthday; No man buys me a cake.<br/>
+If you are willing, please treat me to a piece of chocolate.<br/>
+I need chocolate to help me release endorphins and dopamine to get rid of pain.
+![Dove](https://github.com/M-L-P/Yours/assets/69227436/f094f056-9420-4dd5-beec-4ccecff20a1e)
