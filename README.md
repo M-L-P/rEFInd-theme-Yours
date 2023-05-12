@@ -69,6 +69,9 @@ Download .vhdx from [Releases](https://github.com/M-L-P/Yours/releases).
 - Edit to set your profile, device and your name;
 - Save as a PNG;
 - Edit `EFI\Yours\Settings\display\display.conf` to set the new made as the banner.
+
+<img src="Settings/display/M.L.P.png"><br/>
+<img src="Settings/display/BannerEditor.png">
 </details>
 
 ## 📝FAQ❓️
