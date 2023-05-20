@@ -1,5 +1,5 @@
 # display
 Banner|PNG
 --|--
-BannerEditor|<img src="BannerEditor.png">
-M.L.P|<img src="M.L.P.png">
+BannerEditor|<img src="1K/BannerEditor.png">
+M.L.P|<img src="1K/M.L.P.png">
