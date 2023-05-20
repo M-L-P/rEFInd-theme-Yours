@@ -2,6 +2,7 @@
 --|--|--|--
 
 # Yours
+Y-o-u-r-s,<br/>
 Your own usual rEFInd's sign.
 - You can
 - - ✏️set ___your profile___;
