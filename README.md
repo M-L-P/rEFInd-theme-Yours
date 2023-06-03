@@ -35,7 +35,6 @@ Screenshots are folded.
 ## 🧭Guide⬇️
 
 ### Where to Download
-
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
@@ -96,6 +95,7 @@ Treble Size|`small_icon_size 144` `big_icon_size 384`|Resolutions ≥ `1920x1080
 ### The Icon of Windows
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
+
 No matter which version of Windows you are using,<br/>
 you should copy its icon,<br/>
 from `EFI\Yours\Settings\icon\Windows` to `EFI\Yours\Settings\icon\showing`,<br/>
