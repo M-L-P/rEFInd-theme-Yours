@@ -1,8 +1,10 @@
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours)](https://github.com/M-L-P/Yours/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/M-L-P/Yours/total)](https://github.com/M-L-P/Yours/releases)
+[![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/Yours)](https://github.com/M-L-P/Yours/discussions)
+![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/Yours?style=social)
+
 [English](README.md)|[简体中文](自述文件.md)|[繁體中文](繁體中文.md)|...
 --|--|--|--
-
-![GitHub all releases](https://img.shields.io/github/downloads/M-L-P/Yours/total)
-![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/Yours?style=social)
 
 # Yours
 Y-o-u-r-s,<br/>
