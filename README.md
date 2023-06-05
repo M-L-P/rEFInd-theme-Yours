@@ -1,6 +1,9 @@
 [English](README.md)|[简体中文](自述文件.md)|[繁體中文](繁體中文.md)|...
 --|--|--|--
 
+![GitHub all releases](https://img.shields.io/github/downloads/M-L-P/Yours/total)
+![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/Yours?style=social)
+
 # Yours
 Y-o-u-r-s,<br/>
 Your own usual rEFInd's sign.
