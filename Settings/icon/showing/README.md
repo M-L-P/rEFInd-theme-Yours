@@ -1,21 +1,22 @@
 # showing
 
 ## mouse
-mouse|![mouse](mouse.png)
---|--
+|mouse|
+|--|
+|![mouse](mouse.png)|
 
-## arrow
+## arrow_
 left|right
 --|--
 ![arrow_left](arrow_left.png)|![arrow_right](arrow_right.png)
 
-## func
+## func_
 about|bootorder|csr rotate|exit|firmware|hidden|install|reboot|shutdown
 --|--|--|--|--|--|--|--|--
 ![func_about](func_about.png)|![func_bootorder](func_bootorder.png)|![func_csr_rotate](func_csr_rotate.png)|![func_exit](func_exit.png)|![func_firmware](func_firmware.png)|![func_hidden](func_hidden.png)|![func_install](func_install.png)|![func_reset](func_reset.png)|![func_shutdown](func_shutdown.png)
 | |![func_bootorder#](func_bootorder1.png)| | | | | | |
 
-## tool
+## tool_
 apple recovery|netboot|gptsync|memtest|shell
 --|--|--|--|--
 ![tool_apple_rescue](tool_apple_rescue.png)|![tool_netboot](tool_netboot.png)|![tool_gptsync](tool_gptsync.png)|![tool_memtest](tool_memtest.png)|![tool_shell](tool_shell.png)
@@ -24,12 +25,12 @@ windows recovery|fwupdate|part|rescue|mok tool
 --|--|--|--|--
 ![tool_windows_rescue](tool_windows_rescue.png)|![tool_fwupdate](tool_fwupdate.png)|![tool_part](tool_part.png)|![tool_rescue](tool_rescue.png)|![tool_mok_tool](tool_mok_tool.png)
 
-## vol
+## vol_
 firmware|internal|external|optical|netboot|transparent
 --|--|--|--|--|--
 ![vol_efi](vol_efi.png)|![vol_internal](vol_internal.png)|![vol_external](vol_external.png)|![vol_optical](vol_optical.png)|![vol_net](vol_net.png)|![vol_transparent](vol_transparent.png)
 
-## os
+## os_
 ### Some Menuentries of rEFInd
 Legacy|UEFI|Linux|Unknown
 --|--|--|--
@@ -55,5 +56,6 @@ macOS|deepin|fydeOS|android
 <img src="os_mac.png" width="100px">|<img src="os_deepin.png" width="100px">|<img src="os_fydeos.png" width="100px">|<img src="os_android.png" width="100px">
 
 ## Ventoy
-Ventoy|<img src="Ventoy.png" width="100px">
---|--
+|Ventoy|
+|--|
+|<img src="Ventoy.png" width="100px">|
