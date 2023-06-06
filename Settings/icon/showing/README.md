@@ -11,19 +11,23 @@ left|right
 ![arrow_left](arrow_left.png)|![arrow_right](arrow_right.png)
 
 ## func_
-about|bootorder|csr rotate|exit|firmware|hidden|install|reboot|shutdown
---|--|--|--|--|--|--|--|--
-![func_about](func_about.png)|![func_bootorder](func_bootorder.png)|![func_csr_rotate](func_csr_rotate.png)|![func_exit](func_exit.png)|![func_firmware](func_firmware.png)|![func_hidden](func_hidden.png)|![func_install](func_install.png)|![func_reset](func_reset.png)|![func_shutdown](func_shutdown.png)
-| |![func_bootorder#](func_bootorder1.png)| | | | | | |
+about|bootorder|hidden|install|csr rotate
+--|--|--|--|--
+![func_about](func_about.png)|![func_bootorder](func_bootorder.png)| |![func_install](func_install.png)|![func_csr_rotate](func_csr_rotate.png)
+| |![func_bootorder#](func_bootorder1.png)|![func_hidden](func_hidden.png)| | |
+
+exit|shutdown|reboot|firmware
+--|--|--|--
+![func_exit](func_exit.png)|![func_shutdown](func_shutdown.png)|![func_reset](func_reset.png)|![func_firmware](func_firmware.png)
 
 ## tool_
-apple recovery|netboot|gptsync|memtest|shell
+apple recovery|gptsync|memtest|netboot|shell
 --|--|--|--|--
-![tool_apple_rescue](tool_apple_rescue.png)|![tool_netboot](tool_netboot.png)|![tool_gptsync](tool_gptsync.png)|![tool_memtest](tool_memtest.png)|![tool_shell](tool_shell.png)
+![tool_apple_rescue](tool_apple_rescue.png)|![tool_gptsync](tool_gptsync.png)|![tool_memtest](tool_memtest.png)|![tool_netboot](tool_netboot.png)|![tool_shell](tool_shell.png)
 
-windows recovery|fwupdate|part|rescue|mok tool
+windows recovery|part|fwupdate|rescue|mok tool
 --|--|--|--|--
-![tool_windows_rescue](tool_windows_rescue.png)|![tool_fwupdate](tool_fwupdate.png)|![tool_part](tool_part.png)|![tool_rescue](tool_rescue.png)|![tool_mok_tool](tool_mok_tool.png)
+![tool_windows_rescue](tool_windows_rescue.png)|![tool_part](tool_part.png)|![tool_fwupdate](tool_fwupdate.png)|![tool_rescue](tool_rescue.png)|![tool_mok_tool](tool_mok_tool.png)
 
 ## vol_
 firmware|internal|external|optical|netboot|transparent
