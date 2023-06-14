@@ -25,14 +25,14 @@ Press the key `F10` or `\` to take a screenshot, by using your keyboard.<br/>
 Screenshots are folded.
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours//B.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours//B.small.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours//M.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours//M.small.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours//1080p.B.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours//1080p.B.small.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours//1080p.M.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours//1080p.M.small.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.big.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.small.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.big.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.small.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.big.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.small.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.big.png">
+<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.small.png">
 
 </details>
 
