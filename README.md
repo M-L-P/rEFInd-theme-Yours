@@ -13,6 +13,7 @@ Your own usual rEFInd's sign.
 - It is based on [rEFInd Boot Manager](http://www.rodsbooks.com/refind/) of *Roderick W. Smith*, with [grub2-filemanager](https://github.com/a1ive/grub2-filemanager) built-in.
 - - So you can boot .iso files from internal SSD by using [grub2-filemanager](https://github.com/a1ive/grub2-filemanager) of [a1ive](https://github.com/a1ive).
 - Here are [icons](https://github.com/M-L-P/icons) for You.
+-----------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours)](https://github.com/M-L-P/Yours/releases/latest)

@@ -13,6 +13,7 @@ Your own usual rEFInd's sign.
 - 基於 *Roderick W. Smith* 的 [rEFInd Boot Manager](http://www.rodsbooks.com/refind/)，嵌套 [a1ive](https://github.com/a1ive) 的 [grub2-filemanager](https://github.com/a1ive/grub2-filemanager)。
 - - 所以你可以借助 [grub2-filemanager](https://github.com/a1ive/grub2-filemanager) 來啟動存儲在內置固態硬盤中的 .iso 文件。
 - 為你準備了許多圖標，[icons](https://github.com/M-L-P/icons)。
+-----------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours)](https://github.com/M-L-P/Yours/releases/latest)
