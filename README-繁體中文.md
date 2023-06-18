@@ -1,12 +1,7 @@
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours)](https://github.com/M-L-P/Yours/releases/latest)
-[![GitHub all releases](https://img.shields.io/github/downloads/M-L-P/Yours/total)](https://github.com/M-L-P/Yours/releases)
-[![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/Yours)](https://github.com/M-L-P/Yours/discussions)
-[![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/Yours?style=social)](https://github.com/M-L-P/Yours/stargazers)
-
 [English](README.md)|[简体中文](README-自述文件.md)|[繁體中文](README-繁體中文.md)|...
 --|--|--|--
 
-# Yours
+<h1 align="center">Yours</h1>
 Y-o-u-r-s,<br/>
 Your own usual rEFInd's sign.
 - 你可以
@@ -15,10 +10,16 @@ Your own usual rEFInd's sign.
  - ✏️自定義 ***機主姓名*** 。
 
 - 基於 *Roderick W. Smith* 的 [rEFInd Boot Manager](http://www.rodsbooks.com/refind/)，嵌套 [a1ive](https://github.com/a1ive) 的 [grub2-filemanager](https://github.com/a1ive/grub2-filemanager)。
-
 - - 所以你可以借助 [grub2-filemanager](https://github.com/a1ive/grub2-filemanager) 來啟動存儲在內置固態硬盤中的 .iso 文件。
-
 - 為你準備了許多圖標，[icons](https://github.com/M-L-P/icons)。
+<div align="center">
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours)](https://github.com/M-L-P/Yours/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/M-L-P/Yours/total)](https://github.com/M-L-P/Yours/releases)
+[![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/Yours)](https://github.com/M-L-P/Yours/discussions)
+[![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/Yours?style=social)](https://github.com/M-L-P/Yours/stargazers)
+
+</div>
 
 ## 💻️預覽👀
 按下鍵盤的 `F10` 或 `\` 可以截屏。<br/>

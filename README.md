@@ -1,12 +1,7 @@
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours)](https://github.com/M-L-P/Yours/releases/latest)
-[![GitHub all releases](https://img.shields.io/github/downloads/M-L-P/Yours/total)](https://github.com/M-L-P/Yours/releases)
-[![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/Yours)](https://github.com/M-L-P/Yours/discussions)
-[![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/Yours?style=social)](https://github.com/M-L-P/Yours/stargazers)
-
 [English](README.md)|[简体中文](README-自述文件.md)|[繁體中文](README-繁體中文.md)|...
 --|--|--|--
 
-# Yours
+<h1 align="center">Yours</h1>
 Y-o-u-r-s,<br/>
 Your own usual rEFInd's sign.
 - You can
@@ -15,10 +10,16 @@ Your own usual rEFInd's sign.
 - - ✏️set ___your name___.
 
 - It is based on [rEFInd Boot Manager](http://www.rodsbooks.com/refind/) of *Roderick W. Smith*, with [grub2-filemanager](https://github.com/a1ive/grub2-filemanager) built-in.
-
 - - So you can boot .iso files from internal SSD by using [grub2-filemanager](https://github.com/a1ive/grub2-filemanager) of [a1ive](https://github.com/a1ive).
-
 - Here are [icons](https://github.com/M-L-P/icons) for You.
+<div align="center">
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours)](https://github.com/M-L-P/Yours/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/M-L-P/Yours/total)](https://github.com/M-L-P/Yours/releases)
+[![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/Yours)](https://github.com/M-L-P/Yours/discussions)
+[![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/Yours?style=social)](https://github.com/M-L-P/Yours/stargazers)
+
+</div>
 
 ## 💻️Preview👀
 Press the key `F10` or `\` to take a screenshot, by using your keyboard.<br/>
