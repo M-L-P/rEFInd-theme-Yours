@@ -3,11 +3,11 @@
 
 <h1 align="center">Yours</h1>
 Y-o-u-r-s,<br/>
-Your own usual rEFInd's sign.
+Your own usual rEFInd's sign.<br/>
 - 你可以
- - ✏️自定義 ***用戶頭像*** ；
- - ✏️自定義 ***設備名稱*** ；
- - ✏️自定義 ***機主姓名*** 。
+- - ✏️自定義 ***用戶頭像*** ；
+- - ✏️自定義 ***設備名稱*** ；
+- - ✏️自定義 ***機主姓名*** 。
 
 - 基於 *Roderick W. Smith* 的 [rEFInd Boot Manager](http://www.rodsbooks.com/refind/)，嵌套 [a1ive](https://github.com/a1ive) 的 [grub2-filemanager](https://github.com/a1ive/grub2-filemanager)。
 - - 所以你可以借助 [grub2-filemanager](https://github.com/a1ive/grub2-filemanager) 來啟動存儲在內置固態硬盤中的 .iso 文件。
