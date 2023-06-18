@@ -1,3 +1,12 @@
+<div align="center">
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours)](https://github.com/M-L-P/Yours/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/M-L-P/Yours/total)](https://github.com/M-L-P/Yours/releases)
+[![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/Yours)](https://github.com/M-L-P/Yours/discussions)
+[![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/Yours?style=social)](https://github.com/M-L-P/Yours/stargazers)
+
+</div>
+
 [English](README.md)|[简体中文](README-自述文件.md)|[繁體中文](README-繁體中文.md)|...
 --|--|--|--
 
@@ -14,14 +23,6 @@ Your own usual rEFInd's sign.
 - - 所以你可以借助 [grub2-filemanager](https://github.com/a1ive/grub2-filemanager) 来启动存储在内置固态硬盘中的 .iso 文件。
 - 为你准备了许多图标，[icons](https://github.com/M-L-P/icons)。
 -----------------------------------------------------------------------------------------------------------------------------------
-<div align="center">
-
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours)](https://github.com/M-L-P/Yours/releases/latest)
-[![GitHub all releases](https://img.shields.io/github/downloads/M-L-P/Yours/total)](https://github.com/M-L-P/Yours/releases)
-[![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/Yours)](https://github.com/M-L-P/Yours/discussions)
-[![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/Yours?style=social)](https://github.com/M-L-P/Yours/stargazers)
-
-</div>
 
 ## 💻️预览👀
 按下键盘的 `F10` 或 `\` 可以截屏。<br/>
