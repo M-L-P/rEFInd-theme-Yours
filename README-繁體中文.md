@@ -1,9 +1,9 @@
 <div align="center">
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/Yours)](https://github.com/M-L-P/Yours/releases/latest)
-[![GitHub all releases](https://img.shields.io/github/downloads/M-L-P/Yours/total)](https://github.com/M-L-P/Yours/releases)
-[![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/Yours)](https://github.com/M-L-P/Yours/discussions)
-[![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/Yours?style=social)](https://github.com/M-L-P/Yours/stargazers)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/M-L-P/rEFInd-theme-Yours)](https://github.com/M-L-P/rEFInd-theme-Yours/releases/latest)
+[![GitHub all releases](https://img.shields.io/github/downloads/M-L-P/rEFInd-theme-Yours/total)](https://github.com/M-L-P/rEFInd-theme-Yours/releases)
+[![GitHub Discussions](https://img.shields.io/github/discussions/M-L-P/rEFInd-theme-Yours)](https://github.com/M-L-P/rEFInd-theme-Yours/discussions)
+[![GitHub Repo stars](https://img.shields.io/github/stars/M-L-P/rEFInd-theme-Yours?style=social)](https://github.com/M-L-P/rEFInd-theme-Yours/stargazers)
 
 </div>
 
