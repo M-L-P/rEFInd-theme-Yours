@@ -3,7 +3,8 @@
 
 <h1 align="center">Yours</h1>
 Y-o-u-r-s,<br/>
-Your own usual rEFInd's sign.<br/>
+Your own usual rEFInd's sign.
+
 - 你可以
 - - ✏️自定义 ***用户头像*** ；
 - - ✏️自定义 ***设备名称*** ；

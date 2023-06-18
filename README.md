@@ -3,7 +3,8 @@
 
 <h1 align="center">Yours</h1>
 Y-o-u-r-s,<br/>
-Your own usual rEFInd's sign.<br/>
+Your own usual rEFInd's sign.
+
 - You can
 - - ✏️set ___your profile___;
 - - ✏️set ___device___;
