@@ -113,9 +113,9 @@ It is because rEFInd is taking `os_win8.png` as the icon of `Windows Boot Manage
 </details>
 
 ### The Icon of Hackintosh
+In order to ensure that the graphical interface is NOT going to be interrupted by codes, and that it will support Secure Boot<br/>
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
-In order to ensure that the graphical interface is NOT going to be interrupted by codes, and that it will support Secure Boot<br/>
 
 File Name|Directory|Principle|Function
 -|-|-|-
