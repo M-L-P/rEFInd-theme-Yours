@@ -139,7 +139,7 @@ Your own usual rEFInd's sign.
 
 - 從 [這裏](https://github.com/M-L-P/icons/tree/main/PNGs/Linux) 尋找並下載你需要的圖標；
 - 重命名 PNG 文件，
-- - `os_$NAME.png` 是 `ESP: \EFI\$NAME\grubx64.efi` 的圖標；
+- - `os_${NAME}.png` 是 `ESP: \EFI\${NAME}\grubx64.efi` 的圖標；
 - 復製到 `ESP: \EFI\Yours\Settings\icon\showing`；
 </details>
 

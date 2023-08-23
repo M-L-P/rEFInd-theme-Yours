@@ -139,7 +139,7 @@ Here are [icons](https://github.com/M-L-P/icons/tree/main/PNGs/Linux) for You.
 
 - find and download which icons you need from [here](https://github.com/M-L-P/icons/tree/main/PNGs/Linux);
 - Rename the PNG files,
-- - `os_$NAME.png` is the icon of `ESP: \EFI\$NAME\grubx64.efi`;
+- - `os_${NAME}.png` is the icon of `ESP: \EFI\${NAME}\grubx64.efi`;
 - Copy into `ESP: \EFI\Yours\Settings\icon\showing`;
 </details>
 
