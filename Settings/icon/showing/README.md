@@ -62,4 +62,4 @@ macOS|deepin|fydeOS|android
 ## Ventoy
 |Ventoy|
 |--|
-|<img src="Ventoy.png" width="100px">|
+|<img src="os_VTOYEFI.png" width="100px">|
