@@ -115,18 +115,20 @@ Your own usual rEFInd's sign.
 ### 黑果 的圖標
 <details>
 <summary>🖱️點擊展開查看🖱️</summary>
-為了讓圖形界面銜接得更加緊密，中途沒有代碼界面，<br/>
-你應該執行以下步驟。
+為了讓圖形界面銜接得更加緊密，中途沒有代碼界面，同時支持安全啟動<br/>
+
+文件名|所在目錄|文件原理|文件功能
+-|-|-|-
+`GrubPreLoader_CLOVER.efi`|`EFI\Yours\efi`|鏈接到 `EFI\CLOVER\CLOVERX64.efi`|預啟動 CloverBootloader
+`GrubPreLoader_CLOVER.png`|`EFI\Yours\efi`|同名顯示圖標|用於顯示 Clover 的啟動圖標
+`GrubPreLoader_OC.efi`|`EFI\Yours\efi`|鏈接到 `EFI\OC\OpenCore.efi`|預啟動 OpenCore
+`GrubPreLoader_OC.png`|`EFI\Yours\efi`|同名顯示圖標|用於顯示 OC 的啟動圖標
 
 #### 若是 OpenCore
-- 編輯 `config.plist` 設置 `LauncherOption=System` ；
-- 剪切 EFI 相關文件，粘貼到 `EFI\Yours\efi\OC` ；
-- 編輯 `refind.conf` ，刪除 位於`include /EFI/Yours/Settings/menuentry/examples/OpenCore.conf` 前面的 `#`；
+- 你應該編輯 `config.plist` 設置 `LauncherOption=System` ；
 
-#### 若是 CloverBootloader
-- 剪切 EFI 相關文件，粘貼到 `EFI\Yours\efi\CLOVER` ；
-- 編輯 `refind.conf` ，刪除 位於 `include /EFI/Yours/Settings/menuentry/examples/CLOVER.conf` 前面的 `#`；
-
+#### 若不用黑果
+- 你可以選定 Clover 或 OC 的啟動圖標，按下【Delete】，隱藏對應的入口。
 </details>
 
 ### Linux 發行版的圖標
@@ -153,15 +155,4 @@ Your own usual rEFInd's sign.
 - - 一些圖標來自 macOS and [OC](https://github.com/acidanthera/OpenCorePkg)，
 - - 其他未知出處；
 
-## 🧁請我吃塊巧克力🍫
-<details>
-<summary>🖱️點擊展開查看🖱️</summary>
-我沒有父親；沒人給我過生日；沒人為我買蛋糕🎂。<br/>
-如果你願意，請我吃塊巧克力🍫。<br/>
-我需要巧克力🍫幫助我釋放內啡肽與多巴胺來緩解痛苦。<br/>
-我將會非常感謝您，仙女姐姐🧚‍ 或 玉樹豪俠🦸‍♂️。<br/>
-<img src="https://github.com/M-L-P/Yours/assets/69227436/f094f056-9420-4dd5-beec-4ccecff20a1e" width="300px"><br/>
-<img src="https://github.com/M-L-P/Yours/assets/69227436/8608e193-3c4d-4926-8171-7944e881d95f" width="300px">
-
-[🧚仙女豪俠🦸‍♂️ 名单](https://github.com/M-L-P/.github/blob/main/list/README.md)
-</details>
+## [🧁請我吃塊巧克力🍫](https://github.com/M-L-P/.github/blob/main/chocolate/chocolate.md)

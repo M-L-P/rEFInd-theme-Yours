@@ -116,17 +116,19 @@ It is because rEFInd is taking `os_win8.png` as the icon of `Windows Boot Manage
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 In order to ensure that the graphical interface is going to be not interrupted by codes,<br/>
-You need to perform the following steps.
+
+File Name|Directory|Principle|Function
+-|-|-|-
+`GrubPreLoader_CLOVER.efi`|`EFI\Yours\efi`|Linked to `EFI\CLOVER\CLOVERX64.efi`|PreLoader CloverBootloader
+`GrubPreLoader_CLOVER.png`|`EFI\Yours\efi`|To display icon with the same name|Used to display icon of Clover
+`GrubPreLoader_OC.efi`|`EFI\Yours\efi`|Linked to `EFI\OC\OpenCore.efi`|PreLoader OpenCore
+`GrubPreLoader_OC.png`|`EFI\Yours\efi`|To display icon with the same name|Used to display icon of OC
 
 #### For OpenCore
 - Set `LauncherOption=System` by editing `config.plist`;
-- Cut your EFI files into `EFI\Yours\efi\OC`;
-- Edit `refind.conf` to enable `include /EFI/Yours/Settings/menuentry/examples/OpenCore.conf` with `#` deleted;
 
-#### For CloverBootloader
-- Cut your EFI files into `EFI\Yours\efi\CLOVER`;
-- Edit `refind.conf` to enable `include /EFI/Yours/Settings/menuentry/examples/CLOVER.conf` with `#` deleted;
-
+#### Without Hackintosh
+-You can select the icon of Clover or OC, press [Delete], and hide the corresponding entry.
 </details>
 
 ### The Icon of Linux Distros
@@ -153,15 +155,4 @@ If you like it and are looking forward to the coming update, you can star it.�
 - - Some coming from macOS and [OC](https://github.com/acidanthera/OpenCorePkg),
 - - Others coming from Unknown;
 
-## 🧁Buy me a piece of chocolate🍫
-<details>
-<summary>🖱️Click to Unfold to see🖱️</summary>
-I have no father; No man celebrates my birthday; No man buys me a cake🎂.<br/>
-If you are willing, please treat me to a piece of chocolate🍫.<br/>
-I need chocolate🍫 to help me release endorphins and dopamine to get rid of pain.<br/>
-I would be very grateful to you, fairy lady🧚 or handsome knight🦸‍♂️.<br/>
-<img src="https://github.com/M-L-P/Yours/assets/69227436/f094f056-9420-4dd5-beec-4ccecff20a1e" width="300px"><br/>
-<img src="https://github.com/M-L-P/Yours/assets/69227436/8608e193-3c4d-4926-8171-7944e881d95f" width="300px">
-
-[The List of Fairy Lady🧚 or Handsome kKnight🦸‍♂️](https://github.com/M-L-P/.github/blob/main/list/README.md)
-</details>
+## [🧁Buy me a piece of chocolate🍫](https://github.com/M-L-P/.github/blob/main/chocolate/chocolate.md)
