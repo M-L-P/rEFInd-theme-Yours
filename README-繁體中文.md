@@ -155,4 +155,4 @@ Your own usual rEFInd's sign.
 - - 一些圖標來自 macOS and [OC](https://github.com/acidanthera/OpenCorePkg)，
 - - 其他未知出處；
 
-## [🧁請我吃塊巧克力🍫](https://github.com/M-L-P/.github/blob/main/chocolate/chocolate.md)
+## [🧁請我吃塊巧克力🍫](https://github.com/M-L-P/.github/blob/main/profile/chocolate/README.md)
