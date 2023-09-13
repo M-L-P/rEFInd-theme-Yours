@@ -83,8 +83,8 @@ Download .vhdx from [Releases](https://github.com/M-L-P/Yours/releases).
 - Save as a PNG;
 - Edit `EFI\Yours\Settings\display\display.conf` to set the new made as the banner.
 
-<img src="Settings/display/1K/M.L.P.png"><br/>
-<img src="Settings/display/1K/BannerEditor.png">
+<img src="https://raw.githubusercontent.com/M-L-P/rEFInd-theme-Yours/main/Settings/display/1K/M.L.P.png"><br/>
+<img src="https://raw.githubusercontent.com/M-L-P/rEFInd-theme-Yours/main/Settings/display/1K/BannerEditor.png">
 </details>
 
 ## 📝FAQ❓️
