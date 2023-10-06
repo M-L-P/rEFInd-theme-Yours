@@ -122,10 +122,10 @@ In order to ensure that the graphical interface is NOT going to be interrupted b
 
 File Name|Directory|Principle|Function
 -|-|-|-
-`GRUB_PreLoader_CLOVER.efi`|`EFI\Yours\efi`|Linked to `EFI\CLOVER\CLOVERX64.efi`|PreLoader CloverBootloader
-`GRUB_PreLoader_CLOVER.png`|`EFI\Yours\efi`|To display icon with the same name|Used to display icon of Clover
-`GRUB_PreLoader_OC.efi`|`EFI\Yours\efi`|Linked to `EFI\OC\OpenCore.efi`|PreLoader OpenCore
-`GRUB_PreLoader_OC.png`|`EFI\Yours\efi`|To display icon with the same name|Used to display icon of OC
+`GRUB_PreLoader_CLOVER.efi`|`EFI\Yours\efi\Hackintosh`|Linked to `EFI\CLOVER\CLOVERX64.efi`|PreLoader CloverBootloader
+`GRUB_PreLoader_CLOVER.png`|`EFI\Yours\efi\Hackintosh`|To display icon with the same name|Used to display icon of Clover
+`GRUB_PreLoader_OC.efi`|`EFI\Yours\efi\Hackintosh`|Linked to `EFI\OC\OpenCore.efi`|PreLoader OpenCore
+`GRUB_PreLoader_OC.png`|`EFI\Yours\efi\Hackintosh`|To display icon with the same name|Used to display icon of OC
 
 #### For OpenCore
 - Set `LauncherOption=System` by editing `config.plist`;
