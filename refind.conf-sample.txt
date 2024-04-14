@@ -245,7 +245,8 @@ use_nvram false
 #  shell            - the EFI shell (requires external program; see rEFInd
 #                     documentation for details)
 #  memtest          - the memtest86 program, in EFI/tools, EFI/memtest86,
-#                     EFI/memtest, EFI/tools/memtest86, or EFI/tools/memtest
+#                     EFI/memtest, EFI/tools/memtest86, EFI/tools/memtest,
+#                     or a boot loader's directory
 #  gptsync          - the (dangerous) gptsync.efi utility (requires external
 #                     program; see rEFInd documentation for details)
 #  gdisk            - the gdisk partitioning program
@@ -275,6 +276,13 @@ use_nvram false
 # with no options.
 #
 #showtools shell, bootorder, gdisk, memtest, mok_tool, apple_recovery, windows_recovery, about, hidden_tags, reboot, exit, firmware, fwupdate
+
+# Additional directories to scan for tools. You may specify a directory
+# alone or a volume identifier plus pathname. The default is to scan no
+# extra directories, beyond EFI/tools and any directory in which an EFI
+# loader is found.
+#
+#also_scan_tool_dirs EFI/memtest,ESP2:/EFI/tools/memtest86
 
 # Tool binaries to be excluded from the tools line, even if the
 # general class is specified in showtools. This enables trimming an
@@ -460,6 +468,15 @@ use_nvram false
 # Default is "true" -- kernels are "folded" into a single menu entry.
 #
 #fold_linux_kernels false
+
+# Filename prefixes that indicate a file is a Linux kernel. Files that
+# begin with any of these strings are treated as Linux kernels, if they
+# are also EFI boot loaders. To include the default string, use "+"
+# Default is "vmlinuz,bzImage,kernel", except on ARM64, where it is
+# "vmlinuz,Image,kernel".
+#
+#linux_prefixes vmlinuz,bzImage,kernel
+#linux_prefixes +,zImage
 
 # Comma-delimited list of strings to treat as if they were numbers for the
 # purpose of kernel version number detection. These strings are matched on a
