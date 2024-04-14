@@ -32,14 +32,14 @@ Your own usual rEFInd's sign.
 截图已折叠。
 <details>
 <summary>🖱️点击展开查看🖱️</summary>
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.small.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.small.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.small.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.big.png">
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.small.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.big.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.small.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.big.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.small.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.big.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.small.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.big.png">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.small.png">
 
 </details>
 
@@ -83,8 +83,8 @@ Your own usual rEFInd's sign.
 - 另存为 PNG；
 - 编辑 `EFI\Yours\Settings\display\display.conf` 用以设置显示新生成的横幅；
 
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/Chinese_Simplified/sample.PNG"><br/>
-<img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/Chinese_Simplified/template.PNG">
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/Chinese_Simplified/sample.PNG"><br/>
+<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/Chinese_Simplified/template.PNG">
 </details>
 
 ## 📝FAQ❓️
