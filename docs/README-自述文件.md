@@ -157,5 +157,6 @@ Your own usual rEFInd's sign.
 - - 一些图标来自 [Iconfinder](https://www.iconfinder.com/)，
 - - 一些图标来自 macOS and [OC](https://github.com/acidanthera/OpenCorePkg)，
 - - 其他未知出处；
+- 六音的 github 加速器，用于显示图片，https://gh.sixyin.com/ ；
 
 ## [🧁请我吃块巧克力🍫](https://github.com/M-L-P/.github/blob/main/profile/chocolate/README.md)
