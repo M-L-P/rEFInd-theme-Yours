@@ -77,11 +77,14 @@ Download .vhdx from [Releases](https://github.com/M-L-P/Yours/releases).
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
+- Open `BannerEditor.pptx` ,
 - For 1K screen, open `EFI\Yours\Settings\display\1K\BannerEditor.pptx` by using Microsoft PowerPoint 2021+;
 - For 2K screen, open `EFI\Yours\Settings\display\2K\BannerEditor.pptx` by using Microsoft PowerPoint 2021+;
 - Edit to set your profile, device and your name;
 - Save as a PNG;
-- Edit `EFI\Yours\Settings\display\display.conf` to set the new made as the banner.
+- Set the new made as the banner,
+- - For 1K screen, edit `EFI\Yours\Settings\display\1K\resolution-1K.conf` ;
+- - For 2K screen, edit `EFI\Yours\Settings\display\2K\resolution-2K.conf` ;
 
 <img src="https://raw.githubusercontent.com/M-L-P/rEFInd-theme-Yours/main/Settings/display/1K/M.L.P.png"><br/>
 <img src="https://raw.githubusercontent.com/M-L-P/rEFInd-theme-Yours/main/Settings/display/1K/BannerEditor.png">
@@ -94,7 +97,9 @@ Frequently asked question
 <details>
 <summary>🖱️Click to Unfold to see🖱️</summary>
 
-- edit `EFI\Yours\Settings\display\display.conf`
+- Open the file and make adjustments based on the information in the table below,
+- - For 1K screen, edit `EFI\Yours\Settings\display\1K\resolution-1K.conf` ;
+- - For 2K screen, edit `EFI\Yours\Settings\display\2K\resolution-2K.conf` ;
 
 Icon Size|Token|Screen Resolutions|Examples
 --|--|--|--

@@ -77,11 +77,14 @@ Your own usual rEFInd's sign.
 <details>
 <summary>🖱️點選展開檢視🖱️</summary>
 
+- 開啟 `BannerEditor.pptx` ，
 - 1K 螢幕，用 Microsoft PowerPoint 2021+ 開啟 `EFI\Yours\Settings\display\1K\BannerEditor.pptx` ；
 - 2K 螢幕，用 Microsoft PowerPoint 2021+ 開啟 `EFI\Yours\Settings\display\2K\BannerEditor.pptx` ；
 - 編輯並且自定義你的 頭像、裝置名稱 和 姓名或暱稱；
 - 另存為 PNG；
-- 編輯 `EFI\Yours\Settings\display\display.conf` 用以設定顯示新生成的橫幅；
+- 設定顯示新生成的橫幅，
+- - 1K 螢幕，編輯 `EFI\Yours\Settings\display\1K\resolution-1K.conf` ；
+- - 2K 螢幕，編輯 `EFI\Yours\Settings\display\2K\resolution-2K.conf` ；
 
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/Chinese_Simplified/sample.PNG"><br/>
 <img src="https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/Chinese_Simplified/template.PNG">
@@ -94,7 +97,9 @@ Your own usual rEFInd's sign.
 <details>
 <summary>🖱️點選展開檢視🖱️</summary>
 
-- 編輯 `EFI\Yours\Settings\display\display.conf`
+- 開啟檔案，根據下方表格中的資訊進行調整，
+- - 1K 螢幕，編輯 `EFI\Yours\Settings\display\1K\resolution-1K.conf` ；
+- - 2K 螢幕，編輯 `EFI\Yours\Settings\display\2K\resolution-2K.conf` ；
 
 圖示尺寸|令牌|螢幕解析度|例子
 --|--|--|--
