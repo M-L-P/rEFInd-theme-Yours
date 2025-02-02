@@ -3,6 +3,7 @@
 
 ## Changelog
 - Separate 1K configuration and 2K configuration;
+- Optimize the logic of scanning to exclude excess boring `grub.efi`;
 
 ## ⭐Star🌟
 If you like it and are looking forward to the coming update, you can star it.💫
