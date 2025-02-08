@@ -102,19 +102,16 @@ Your own usual rEFInd's sign.
 <summary>🖱️点击展开查看🖱️</summary>
 
 - 打开文件，根据下方表格中的信息进行调整，
-- - 1K 屏幕，编辑 `EFI\Yours\Settings\display\1K\resolution-1K.conf` ；
-- - 2K 屏幕，编辑 `EFI\Yours\Settings\display\2K\resolution-2K.conf` ；
-- - 3K 屏幕，编辑 `EFI\Yours\Settings\display\3K\resolution-3K.conf` ；
-- - 4K 屏幕，编辑 `EFI\Yours\Settings\display\4K\resolution-4K.conf` ；
+- - `EFI\Yours\refind.conf` ;
 
 图标尺寸|令牌|条件|例子
 --|--|--|--
-原始尺寸|`small_icon_size 48` `big_icon_size 128`|384 ≤ 垂直像素数 < 768|SVGA(800×600),720P|WXGA(1280×720) 等
+原始尺寸|`small_icon_size 48` `big_icon_size 128`|384 ≤ 垂直像素数 < 768|SVGA(800×600),720P/WXGA(1280×720) 等
 二级尺寸|`small_icon_size 96` `big_icon_size 256`|768 ≤ 垂直像素数 < 960|XGA(1024×768),WXGA+(1366×768),WSXGA(1440×900) 等
-三级尺寸|`small_icon_size 144` `big_icon_size 384`|960 ≤ 垂直像素数 < 1536|WSXGA+(1680×1050),1080P|WSUVGA+|FHD(1920×1080),2K|1440P|QHD|WQHD(2560×1440) 等
+三级尺寸|`small_icon_size 144` `big_icon_size 384`|960 ≤ 垂直像素数 < 1536|WSXGA+(1680×1050),1080P/WSUVGA+/FHD(1920×1080),2K/1440P/QHD/WQHD(2560×1440) 等
 四级尺寸|`small_icon_size 192` `big_icon_size 512`|1536 ≤ 垂直像素数 ＜ 1728|WQXGA(2560×1600) 等
 五级尺寸|`small_icon_size 240` `big_icon_size 640`|1728 ≤ 垂直像素数 ＜ 1920|QWXGA+(2880×1880) 等
-六级尺寸|`small_icon_size 288` `big_icon_size 768`|1920 ≤ 垂直像素数 ＜ 2880|4K|2160P|UHD(3840×2160),WQUXGA(3840×2400) 等
+六级尺寸|`small_icon_size 288` `big_icon_size 768`|1920 ≤ 垂直像素数 ＜ 2880|4K/2160P/UHD(3840×2160),WQUXGA(3840×2400) 等
 七级尺寸|`small_icon_size 336` `big_icon_size 896`|垂直像素数 ≥ 2880|WQUSXGA(3840×2880) 等
 
 </details>
