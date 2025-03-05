@@ -104,7 +104,7 @@ Frequently asked question
 - Open the file and make adjustments based on the information in the table below,
 - - `EFI\Yours\refind.conf` ;
 
-Icon Size|Token|Condition|Examples
+Icon size|Token|Condition|Examples
 --|--|--|--
 Original Size|`small_icon_size 48` `big_icon_size 128`|384 ≤ Vertical pixel < 768|SVGA(800×600),720P/WXGA(1280×720) and so on
 Double Size|`small_icon_size 96` `big_icon_size 256`|768 ≤ Vertical pixel < 960|XGA(1024×768),WXGA+(1366×768),WSXGA(1440×900) and so on
@@ -113,6 +113,15 @@ Quadruple Size|`small_icon_size 192` `big_icon_size 512`|1536 ≤ Vertical pixel
 Quintuple Size|`small_icon_size 240` `big_icon_size 640`|1728 ≤ Vertical pixel ＜ 1920|QWXGA+(2880×1880) and so on
 Sextuple Size|`small_icon_size 288` `big_icon_size 768`|1920 ≤ Vertical pixel ＜ 2880|4K/2160P/UHD(3840×2160),WQUXGA(3840×2400) and so on
 Septuple Size|`small_icon_size 336` `big_icon_size 896`|Vertical pixel ≥ 2880|WQUSXGA(3840×2880) and so on
+
+This table is only applicable to ` 4:3 ＜ Aspect ratio of monitor ＜ 16:9 `，
+Other situations need to be calculated according to the formula: <br/>` Size multiplier = [ ( Vertical pixel count of monitor × ⅔ - Vertical pixel count of banner ) ÷ 128 ] `
+
+Example|Calculation process|Icon size
+--|--|--
+UW4K(3840×1600)|`[ ( 1600 × ⅔ - 768 ) ÷ 128 ] = [2.3] = 2`|Double Size
+4096P/DCI_4K(4096×2160)|`[ ( 2160 × ⅔ - 1024 ) ÷ 128 ] = [3.25] = 3`|Triple Size
+
 
 </details>
 
