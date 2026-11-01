@@ -1,3 +1,9 @@
+親愛的朋友們：<br/>
+    我生病了。病去如抽絲，掉了幾層皮。<br/>
+	暫停更新，等我好轉一些。<br/>
+<br/>
+<br/>
+<br/>
 [icons](https://github.com/M-L-P/icons)|[rEFInd-theme-Yours](https://github.com/M-L-P/rEFInd-theme-Yours)|[Yours-LegacyBIOS](https://github.com/M-L-P/Yours-LegacyBIOS)|[Yours-UEFI](https://github.com/M-L-P/Yours-UEFI)
 -|-|-|-
 
@@ -114,8 +120,8 @@ Your own usual rEFInd's sign.
 六級尺寸|`small_icon_size 288` `big_icon_size 768`|1920 ≤ 垂直畫素數 ＜ 2880|4K/2160P/UHD(3840×2160),WQUXGA(3840×2400) 等
 七級尺寸|`small_icon_size 336` `big_icon_size 896`|垂直畫素數 ≥ 2880|WQUSXGA(3840×2880) 等
 
-該表格僅適用於 ` 4:3 ＜ 顯示器縱橫比 ＜ 16:9 `，
-其他情況需要按照公式計算：<br/>` 尺寸倍數 = [ ( 顯示器垂直畫素數 × ⅔ - 橫幅垂直畫素數 ) ÷ 128 ] `
+該表格僅適用於 ` 4:3 ＜ 顯示器縱橫比 ＜ 16:9 `，<br/>
+其他情況需要按照公式計算：` 尺寸倍數 = [ ( 顯示器垂直畫素數 × ⅔ - 橫幅垂直畫素數 ) ÷ 128 ] `
 
 解析度示例|計算倍數|圖示尺寸
 --|--|--

@@ -1,3 +1,12 @@
+Dear friends:<br/>
+  I've been unwell. <br/>
+  Recovering from this illness has been slow and grueling, <br/>
+leaving me completely worn out.<br/>
+  I'm pausing updates for now,<br/>
+and will resume once I'm feeling a bit better.<br/>
+<br/>
+<br/>
+<br/>
 [icons](https://github.com/M-L-P/icons)|[rEFInd-theme-Yours](https://github.com/M-L-P/rEFInd-theme-Yours)|[Yours-LegacyBIOS](https://github.com/M-L-P/Yours-LegacyBIOS)|[Yours-UEFI](https://github.com/M-L-P/Yours-UEFI)
 -|-|-|-
 
@@ -114,8 +123,8 @@ Quintuple Size|`small_icon_size 240` `big_icon_size 640`|1728 ≤ Vertical pixel
 Sextuple Size|`small_icon_size 288` `big_icon_size 768`|1920 ≤ Vertical pixel ＜ 2880|4K/2160P/UHD(3840×2160),WQUXGA(3840×2400) and so on
 Septuple Size|`small_icon_size 336` `big_icon_size 896`|Vertical pixel ≥ 2880|WQUSXGA(3840×2880) and so on
 
-This table is only applicable to ` 4:3 ＜ Aspect ratio of monitor ＜ 16:9 `，
-Other situations need to be calculated according to the formula: <br/>` Size multiplier = [ ( Vertical pixel count of monitor × ⅔ - Vertical pixel count of banner ) ÷ 128 ] `
+This table is only applicable to ` 4:3 ＜ Aspect ratio of monitor ＜ 16:9 `,<br/>
+Other situations need to be calculated according to the formula: ` Size multiplier = [ ( Vertical pixel count of monitor × ⅔ - Vertical pixel count of banner ) ÷ 128 ] `
 
 Example|Calculation process|Icon size
 --|--|--

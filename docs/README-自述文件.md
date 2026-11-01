@@ -1,3 +1,9 @@
+亲爱的朋友们：<br/>
+    我生病了。病去如抽丝，掉了几层皮。<br/>
+	暂停更新，等我好转一些。<br/>
+<br/>
+<br/>
+<br/>
 [icons](https://github.com/M-L-P/icons)|[rEFInd-theme-Yours](https://github.com/M-L-P/rEFInd-theme-Yours)|[Yours-LegacyBIOS](https://github.com/M-L-P/Yours-LegacyBIOS)|[Yours-UEFI](https://github.com/M-L-P/Yours-UEFI)
 -|-|-|-
 
@@ -32,14 +38,14 @@ Your own usual rEFInd's sign.
 截图已折叠。
 <details>
 <summary>🖱️点击展开查看🖱️</summary>
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.big.png">
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.small.png">
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.big.png">
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.small.png">
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.big.png">
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.small.png">
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.big.png">
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.small.png">
+<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.big.png">
+<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/B.small.png">
+<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.big.png">
+<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/M.small.png">
+<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.big.png">
+<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.B.small.png">
+<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.big.png">
+<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/1080p.M.small.png">
 
 </details>
 
@@ -90,8 +96,8 @@ Your own usual rEFInd's sign.
 - - 3K 屏幕，编辑 `EFI\Yours\Settings\display\3K\resolution-3K.conf` ；
 - - 4K 屏幕，编辑 `EFI\Yours\Settings\display\4K\resolution-4K.conf` ；
 
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/Chinese_Simplified/sample.PNG"><br/>
-<img src="https://gh.sixyin.com/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/Chinese_Simplified/template.PNG">
+<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/Chinese_Simplified/sample.PNG"><br/>
+<img src="https://github.moeyy.xyz/https://raw.githubusercontent.com/M-L-P/.github/main/screenshots/Yours/Chinese_Simplified/template.PNG">
 </details>
 
 ## 📝FAQ❓️
@@ -114,8 +120,8 @@ Your own usual rEFInd's sign.
 六级尺寸|`small_icon_size 288` `big_icon_size 768`|1920 ≤ 垂直像素数 ＜ 2880|4K/2160P/UHD(3840×2160),WQUXGA(3840×2400) 等
 七级尺寸|`small_icon_size 336` `big_icon_size 896`|垂直像素数 ≥ 2880|WQUSXGA(3840×2880) 等
 
-该表格仅适用于 ` 4:3 ＜ 显示器纵横比 ＜ 16:9 `，
-其他情况需要按照公式计算：<br/>` 尺寸倍数 = [ ( 显示器垂直像素数 × ⅔ - 横幅垂直像素数 ) ÷ 128 ] `
+该表格仅适用于 ` 4:3 ＜ 显示器纵横比 ＜ 16:9 `，<br/>
+其他情况需要按照公式计算：` 尺寸倍数 = [ ( 显示器垂直像素数 × ⅔ - 横幅垂直像素数 ) ÷ 128 ] `
 
 分辨率示例|计算倍数|图标尺寸
 --|--|--
@@ -177,6 +183,6 @@ UW4K(3840×1600)|`[ ( 1600 × ⅔ - 768 ) ÷ 128 ] = [2.3] = 2`|二级尺寸
 - - 一些图标来自 [Iconfinder](https://www.iconfinder.com/)，
 - - 一些图标来自 macOS and [OC](https://github.com/acidanthera/OpenCorePkg)，
 - - 其他未知出处；
-- 六音的 github 加速器，用于显示图片，https://gh.sixyin.com/ ；
+- moeyy 的 github 加速器，用于显示图片，https://github.moeyy.xyz/ ；
 
 ## [🧁请我吃块巧克力🍫](https://github.com/M-L-P/.github/blob/main/profile/chocolate/README.md)
